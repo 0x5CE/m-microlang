@@ -4,7 +4,9 @@ m-MicroLang is a stack-based language defined entirely using Clojure macros. Fea
 
 ## Usage
 
-`defstackfn` is provided to define stack-based a stack based function written in m-MicroLang, given function name, arguments names, and statements written in m-MicroLang. `generate-code` is a function used by the previously-mentioned macro to generate Clojure code as data.
+`defstackfn` is provided to define stack-based a stack based function written in m-MicroLang, given function name, arguments names, and statements written in m-MicroLang. 
+
+`generate-code` is a function used by the previously-mentioned macro to generate Clojure code as data.
 
 ## Testing
 
