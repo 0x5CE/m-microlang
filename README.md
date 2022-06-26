@@ -13,3 +13,7 @@ m-MicroLang is a stack-based language defined entirely using Clojure macros. Fea
 To run tests
 
     $ lein test
+
+## Licence
+
+This software is provided as-is without warranty and in public domain.
